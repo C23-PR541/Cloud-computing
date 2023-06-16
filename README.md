@@ -12,7 +12,7 @@ We use firebase for authentication and authorization for user logins and we also
 
 #### Login 
 Sample request
-`curl 'https://gymguru.firebaseio.com/users.json'](https://gymguru-default-rtdb.asia-southeast1.firebasedatabase.app/user.json`
+`curl 'https://gymguru-default-rtdb.asia-southeast1.firebasedatabase.app/user.json'`
 
 Sample Respone
 `{
